@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rock
+  - Ice
+  - UIRouter
+  - PlayerRespawn
+  - ShipRespawn
+  - SceneLoadOptions
+  - IceSprinkler
+  - RockSprinkler
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - HomeUIHidden
+  - ParticleFx
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3044880391
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ship
+    uniqueID: 2611910049
+    locked: 0
+  - name: Cat
+    uniqueID: 1801412849
+    locked: 0
+  - name: ShipDoor
+    uniqueID: 2151701577
+    locked: 0
+  - name: Ice
+    uniqueID: 4133020371
+    locked: 0
+  - name: Rock
+    uniqueID: 4209463551
+    locked: 0
+  - name: Particles
+    uniqueID: 2796656761
+    locked: 0
+  - name: Foreground
+    uniqueID: 1669543031
+    locked: 0

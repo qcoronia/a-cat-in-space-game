@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.csproj": false,
+        "**/*.sln": false,
+        "**/*.prefab": true,
+        "**/*.asset": true,
+        "**/.vscode": false,
+        "**/obj": false,
+        "**/Animations/": true,
+        "**/Fonts/": true,
+        "**/Materials/": true,
+        "**/Prefabs/": true,
+        "**/Resources/": true,
+        "**/Scenes/": true,
+        "**/Sprites/": true,
+        "**/Textures/": true,
+        "**/Icons/": true,
+    }
+}
