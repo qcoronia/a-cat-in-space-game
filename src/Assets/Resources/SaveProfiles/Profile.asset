@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3d9f032ac5c71b45b899440d02d30cb, type: 3}
+  m_Name: Profile
+  m_EditorClassIdentifier: 
+  CharacterName: Cat
+  Items:
+  - {fileID: 11400000, guid: fb020f3dac76ecc438034714b51b53e0, type: 2}
+  - {fileID: 11400000, guid: fa9d12e19c71ddc469be14ff433168db, type: 2}
+  UnlockedItems:
+  - {fileID: 11400000, guid: 9f3a992b410e97145ad029ecc4fb923a, type: 2}
+  - {fileID: 11400000, guid: daa085d30c77f0e4abd95e663a3649c4, type: 2}
+  - {fileID: 11400000, guid: fb020f3dac76ecc438034714b51b53e0, type: 2}
+  - {fileID: 11400000, guid: fa9d12e19c71ddc469be14ff433168db, type: 2}
+  DefaultUnlockedItems:
+  - {fileID: 11400000, guid: 9f3a992b410e97145ad029ecc4fb923a, type: 2}
+  - {fileID: 11400000, guid: daa085d30c77f0e4abd95e663a3649c4, type: 2}
+  ReachedLevel: 3
+  Gems: 2
+  ItemList: {fileID: 11400000, guid: acb63d02501faab40aa9ff8bd43c98c2, type: 2}
+  OnRevert:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
